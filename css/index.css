@@ -502,7 +502,8 @@ body {
     width: auto;
   }
   .small-container .question-container {
-    width: 80%;
+    background-color: transparent;
+    width: 100%;
     height: auto;
     margin: 1% 3%;
   }
