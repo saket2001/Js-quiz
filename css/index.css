@@ -509,13 +509,13 @@ body {
   }
   .small-container .question-container .questionNoBox {
     width: 100%;
-    font-size: 26px;
+    font-size: 24px;
   }
   .small-container .question-container .questionBox {
     width: 100%;
     height: auto;
     padding: 2% 1%;
-    font-size: 26px;
+    font-size: 25px;
   }
   .small-container .question-container .optionBox {
     width: 100%;
@@ -564,12 +564,12 @@ body {
   }
   .small-container .question-container .optionBox .optBox label {
     width: auto;
-    font-size: 26px;
+    font-size: 22px;
   }
   .small-container .question-container .optionBox .optBox .optBtn {
     width: auto;
     height: auto;
-    font-size: 25px;
+    font-size: 23px;
     margin: 1% 2%;
     padding: 3%;
     border-radius: 15px;
